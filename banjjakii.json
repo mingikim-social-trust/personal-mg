@@ -1,0 +1,67 @@
+{
+    "start": {
+      "identity": 67499,
+      "labels": [
+        "TwitterAccount",
+        "do_dist_user"
+      ],
+      "properties": {
+        "uid": 873602066257649665,
+        "username": "_honeymood"
+      },
+      "elementId": "4:814f1ebe-8d91-4ba3-a130-c77a26269a10:67499"
+    },
+    "end": {
+      "identity": 698,
+      "labels": [
+        "Couser",
+        "TwitterAccount"
+      ],
+      "properties": {
+        "uid": 823825454880538624,
+        "username": "banjjakii"
+      },
+      "elementId": "4:814f1ebe-8d91-4ba3-a130-c77a26269a10:698"
+    },
+    "segments": [
+      {
+        "start": {
+          "identity": 67499,
+          "labels": [
+            "TwitterAccount",
+            "do_dist_user"
+          ],
+          "properties": {
+            "uid": 873602066257649665,
+            "username": "_honeymood"
+          },
+          "elementId": "4:814f1ebe-8d91-4ba3-a130-c77a26269a10:67499"
+        },
+        "relationship": {
+          "identity": 25453,
+          "start": 67499,
+          "end": 698,
+          "type": "FOLLOWS",
+          "properties": {
+  
+          },
+          "elementId": "5:814f1ebe-8d91-4ba3-a130-c77a26269a10:25453",
+          "startNodeElementId": "4:814f1ebe-8d91-4ba3-a130-c77a26269a10:67499",
+          "endNodeElementId": "4:814f1ebe-8d91-4ba3-a130-c77a26269a10:698"
+        },
+        "end": {
+          "identity": 698,
+          "labels": [
+            "TwitterAccount",
+            "Couser"
+          ],
+          "properties": {
+            "uid": 823825454880538624,
+            "username": "banjjakii"
+          },
+          "elementId": "4:814f1ebe-8d91-4ba3-a130-c77a26269a10:698"
+        }
+      }
+    ],
+    "length": 1.0
+  }
