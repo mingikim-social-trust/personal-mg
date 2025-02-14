@@ -1,0 +1,203 @@
+﻿bureau,reportedAt,identifiedInstitution,accountNumber,loanAmount,repaymentAmount,openedAt,dueAt,lastRepaymentAt,status
+first-central,2024-11-18,money in minutes finance company,2022-45151485,5000,7000,2022-08-28,2022-11-09,2022-09-06,performing
+first-central,2024-11-18,money in minutes finance company,2022-46591196,20000,26000,2022-09-10,,,lost
+first-central,2024-11-18,money in minutes finance company,2022-52305292,10000,13500,2022-09-06,,2022-09-10,performing
+first-central,2022-03-07,mycredit investments limited,100991,200000,58330,2021-12-05,2022-06-03,2022-02-04,performing
+first-central,2022-08-08,mycredit investments limited,5308901,200000,58330,2021-12-05,2022-07-05,2022-05-22,performing
+first-central,2024-08-15,accion microfinance bank limited lagos,AA2207709024,150000,,2022-03-18,2022-06-18,,performing
+first-central,2024-10-12,accion microfinance bank limited lagos,LD2207709024,186612,,2023-11-11,2023-12-01,,lost
+first-central,2022-10-22,mycredit investments limited,7005829,50000,64750,2022-06-11,2022-07-12,2022-06-25,performing
+first-central,2022-10-22,mycredit investments limited,7158577,15000,18000,2022-06-26,2022-07-12,2022-06-27,performing
+first-central,2022-10-22,mycredit investments limited,7168401,25000,30000,2022-06-27,2022-07-12,2022-06-28,performing
+first-central,2022-10-22,mycredit investments limited,7187739,15000,18000,2022-06-29,2022-07-14,2022-07-07,performing
+first-central,2022-10-22,mycredit investments limited,7274882,15000,18000,2022-07-07,2022-07-22,2022-07-19,performing
+first-central,2022-10-22,mycredit investments limited,7393366,10000,12000,2022-07-19,2022-08-03,2022-07-28,performing
+first-central,2022-12-29,mycredit investments limited,7477837,10000,12000,2022-07-28,2022-08-12,2022-08-10,performing
+first-central,2022-12-29,mycredit investments limited,7614985,10000,12000,2022-08-10,2022-08-25,2022-08-25,performing
+first-central,2023-01-28,mycredit investments limited,7769606,30000,36000,2022-08-25,2022-09-09,2022-09-08,performing
+first-central,2023-02-22,mycredit investments limited,7929763,20000,26000,2022-09-09,2022-10-10,2022-10-13,performing
+first-central,2023-02-22,mycredit investments limited,8276210,10000,12000,2022-10-13,2022-10-28,2022-10-28,performing
+first-central,2023-04-17,mycredit investments limited,8736832,22500,27000,2022-11-29,2022-12-14,2022-12-11,performing
+first-central,2024-11-15,fcmb microfinance bank limited,2036909026,500000,,2024-08-28,2025-08-27,2023-08-25,performing
+crc,2024-09-30,eric vsta limited,2022050914033826527627264,9000,0,2022-05-09,2022-05-23,,lost
+crc,2024-09-30,irorun technologies limited,0000232499,1000,0,2024-09-14,2024-09-29,,performing
+crc,2024-02-04,betterlending company limited,sd20230510170749055,25000,0,2023-05-10,2023-05-23,,lost
+crc,2024-02-04,betterlending company limited,sd20230512151731107,5000,0,2023-05-12,2023-05-25,,lost
+crc,2024-09-30,renmoney microfinance bank limited,31792971,14800,11545,2024-09-20,2024-11-20,,performing
+crc,2024-06-30,newedge finance limited,pc-2975557,8000,0,2020-11-27,2020-12-10,2021-03-08,lost
+first-central,2021-02-03,consumer microfinance bank limited fct,2219614739,10000,10000,2021-01-11,2021-01-11,2021-01-11,performing
+first-central,2021-08-16,carbon microfinance bank limited,308160511742,50000,14083,2021-06-02,2021-12-02,,performing
+first-central,2022-09-09,carbon microfinance bank limited,308534495163,53333,15022,2021-08-10,2022-02-02,,performing
+first-central,2024-11-18,carbon microfinance bank limited,309286142592,64500,10456,2022-03-15,2022-12-14,2022-08-24,lost
+first-central,2024-11-21,branch international financial service limited,0435123155,18000,,2018-12-06,,,lost
+first-central,2024-01-31,mycredit investments limited,1061026973,5000,5750,2019-10-25,2019-11-11,2019-11-03,performing
+first-central,2023-01-30,ecobank nigeria plc lagos,8107406492,15000,0,2020-07-05,2020-08-05,,performing
+crc,2023-10-31,branch international financial service limited,0435123155,34000,0,2019-02-03,2019-03-31,,lost
+crc,2024-10-31,carbon microfinance bank limited,301762647566,12500,15000,2018-05-18,2018-06-18,,lost
+crc,2024-10-31,renmoney microfinance bank limited,31826614,9300,13020,2024-10-29,2024-11-28,,performing
+first-central,2020-11-26,carbon microfinance bank limited,306961978568,14000,9170,2020-10-07,2020-12-06,,performing
+first-central,2023-03-02,carbon microfinance bank limited,307211310397,33000,13640,2020-11-26,2021-02-26,,performing
+first-central,2023-03-22,carbon microfinance bank limited,307281723265,66000,15620,2020-12-11,2021-06-10,,performing
+first-central,2023-03-22,carbon microfinance bank limited,308032207321,7000,8050,2021-05-11,2021-05-26,,performing
+first-central,2023-03-22,carbon microfinance bank limited,308086702209,21000,5915,2021-05-20,2021-11-19,,performing
+first-central,2023-03-22,carbon microfinance bank limited,309018813316,42000,12670,2021-11-11,2022-05-11,,performing
+first-central,2025-01-03,sterling bank plc,0074707183,0,,2024-11-06,,,performing
+first-central,2024-10-29,nirsal microfinance bank limited,0253862842,200000,,2021-04-22,2026-04-22,2024-03-28,performing
+first-central,2019-12-20,mycredit investments limited,18780,45000,54900,2019-08-31,2019-09-30,,performing
+crc,2018-04-30,branch international financial service limited,2086032740,3000,,2018-01-11,2018-02-08,,performing
+first-central,2024-11-21,branch international financial service limited,1454958488,34000,,2021-06-14,2021-08-09,2021-08-09,lost
+first-central,2021-07-08,lcredit,20210601213011579,22000,,2021-06-01,2021-06-14,2021-06-14,performing
+first-central,2025-01-13,money in minutes finance company,2022-97802587,5000,6500,2022-06-08,2022-06-22,2023-07-04,lost
+first-central,2024-11-16,mycredit investments limited,3518102,175000,73490,2021-04-08,2021-07-14,,lost
+first-central,2021-05-06,mycredit investments limited,6021405170,40000,46000,2021-03-18,2021-04-06,2021-03-23,performing
+crc,2021-05-31,mycredit investments limited,3433033,40000,46400,2021-03-25,2021-04-09,,performing
+crc,2021-04-30,mycredit investments limited,3383776,25000,27500,2021-03-16,2021-03-31,2021-03-18,performing
+crc,2021-04-30,mycredit investments limited,3395270,40000,46000,2021-03-18,2021-04-06,2021-03-23,performing
+first-central,2022-09-09,carbon microfinance bank limited,308605413303,67500,87750,2021-08-23,2021-09-22,,performing
+first-central,2023-03-02,carbon microfinance bank limited,308866971109,97000,68870,2021-10-10,2021-12-09,,performing
+first-central,2024-12-17,carbon microfinance bank limited,308886158703,97000,68870,2021-10-13,2021-12-12,2021-11-12,lost
+first-central,2023-03-22,carbon microfinance bank limited,302441471,7500,9750,2017-11-30,2018-01-02,,performing
+first-central,2023-01-31,carbon microfinance bank limited,302587498,7000,9100,2018-01-03,2018-02-02,,performing
+first-central,2023-03-22,carbon microfinance bank limited,303046300801,5000,5750,2019-01-15,2019-01-30,,performing
+first-central,2023-10-12,mycredit investments limited,10384360,5000,6500,2023-05-24,2023-06-23,2023-06-04,performing
+first-central,2023-10-12,mycredit investments limited,10491351,20000,14600,2023-06-04,2023-08-03,2023-06-06,performing
+first-central,2023-10-12,mycredit investments limited,10510771,22500,27337,2023-06-06,2023-06-21,2023-06-07,performing
+first-central,2023-10-12,mycredit investments limited,10520098,22500,29250,2023-06-07,2023-07-07,2023-06-21,performing
+first-central,2024-11-16,mycredit investments limited,10657618,15000,18225,2023-06-21,2023-07-27,,lost
+first-central,2023-05-25,newedge finance limited,1503216429,25000,,2023-02-07,2023-02-13,2023-02-09,performing
+first-central,2023-05-25,newedge finance limited,1503357782,29000,,2023-04-08,2023-05-05,2023-04-28,performing
+first-central,2023-03-22,carbon microfinance bank limited,303095950133,5000,5750,2019-01-25,2019-02-09,,performing
+first-central,2023-03-02,carbon microfinance bank limited,303184871359,7000,4900,2019-02-14,2019-04-16,,performing
+first-central,2023-03-22,carbon microfinance bank limited,303449167845,7500,9750,2019-04-20,2019-05-20,,performing
+first-central,2023-07-05,betterlending company limited,20230604120759239,12500,,2023-06-04,2023-06-17,2023-06-06,performing
+first-central,2023-07-05,betterlending company limited,20230607152901050,25000,,2023-06-07,2023-06-20,2023-06-21,performing
+first-central,2023-07-05,betterlending company limited,20230608223728866,3000,,2023-06-08,2023-06-21,2023-06-21,performing
+first-central,2023-03-02,carbon microfinance bank limited,303587596571,4000,4600,2019-05-21,2019-06-20,,performing
+first-central,2023-03-22,carbon microfinance bank limited,303695363573,34000,11560,2019-06-15,2019-10-15,,performing
+first-central,2024-12-17,carbon microfinance bank limited,304229861730,34000,15617,2019-09-10,2019-12-10,2019-10-10,lost
+first-central,2023-03-22,carbon microfinance bank limited,308426659634,2500,2875,2021-07-19,2021-08-03,,performing
+first-central,2023-03-22,carbon microfinance bank limited,308460328272,7500,9750,2021-07-27,2021-08-26,,performing
+first-central,2023-03-02,carbon microfinance bank limited,308560215906,22500,15975,2021-08-15,2021-10-14,,performing
+first-central,2023-05-25,newedge finance limited,2973476,8000,,2020-11-26,2020-12-09,2020-11-27,performing
+first-central,2024-09-23,newedge finance limited,2975557,8000,,2020-11-27,2020-12-10,2021-03-08,lost
+first-central,2024-12-28,newedge finance limited,1480685,5000,,2019-10-27,2019-11-02,,lost
+first-central,2024-12-28,newedge finance limited,1500749648,11000,,2021-07-12,2021-07-25,,lost
+first-central,2023-07-22,newedge finance limited,1503418339,38000,,2023-04-28,2023-05-25,2023-06-01,performing
+first-central,2025-01-24,newedge finance limited,1503524876,85000,,2023-06-01,2023-07-26,2024-03-20,lost
+first-central,2025-01-24,newedge finance limited,1857495,35500,,2023-06-06,2023-07-17,2024-02-02,lost
+first-central,2023-05-25,newedge finance limited,50777098,50000,,2022-05-02,2022-08-02,2022-08-02,performing
+first-central,2022-10-22,mycredit investments limited,6959795,10000,12000,2022-06-06,2022-06-21,2022-06-11,performing
+first-central,2022-10-22,mycredit investments limited,7005461,1500,1800,2022-06-11,2022-06-27,2022-06-11,performing
+crc,2022-03-31,mycredit investments limited,4156291,150000,39640,2021-07-12,2022-01-10,2021-12-05,performing
+crc,2021-09-30,mycredit investments limited,3710643,40000,52000,2021-05-11,2021-06-10,2021-06-02,performing
+crc,2021-09-30,mycredit investments limited,3872269,7500,9000,2021-06-03,2021-06-18,2021-06-17,performing
+crc,2021-08-31,mycredit investments limited,3669066,20000,8260,2021-05-04,2021-08-02,2021-05-11,performing
+crc,2024-10-31,mycredit investments limited,8854991,17500,21000,2022-12-11,2022-12-28,,lost
+first-central,2023-08-03,mycredit investments limited,9695442,5000,6000,2023-03-18,2023-04-03,2023-04-05,performing
+first-central,2023-08-03,mycredit investments limited,9920672,17500,21000,2023-04-10,2023-04-25,2023-04-17,performing
+crc,2024-09-30,mycredit investments limited,10122026,22500,29250,2023-04-29,2023-07-07,2023-06-07,lost
+first-central,2023-08-03,mycredit investments limited,9994746,17500,20947,2023-04-17,2023-05-02,2023-04-29,performing
+first-central,2019-12-20,mycredit investments limited,518721,10000,12200,2019-11-16,2019-12-16,,performing
+crc,2020-12-31,mycredit investments limited,1032476,10000,12200,2019-11-19,2019-12-19,2019-12-02,performing
+crc,2020-12-31,mycredit investments limited,944651,5000,6250,2019-11-03,2019-12-03,2019-11-13,performing
+crc,2020-12-31,mycredit investments limited,997016,10000,12200,2019-11-13,2019-12-13,2019-11-16,performing
+crc,2020-12-31,mycredit investments limited,862593,2500,2870,2019-10-20,2019-11-04,2019-10-23,performing
+crc,2024-10-31,mycredit investments limited,1122678,15000,18300,2019-12-02,2020-01-02,,lost
+crc,2020-12-31,mycredit investments limited,880061,5000,5750,2019-10-23,2019-11-07,2019-10-25,performing
+crc,2020-12-31,mycredit investments limited,1017416,10000,12200,2019-11-16,2019-12-16,2019-11-19,performing
+crc,2020-12-31,mycredit investments limited,891182,5000,5750,2019-10-25,2019-11-11,2019-11-03,performing
+first-central,2023-10-12,mycredit investments limited,2060903262,45000,54900,2019-08-31,2019-09-30,2021-09-23,lost
+first-central,2021-06-18,mycredit investments limited,2086032740,5000,6500,2019-04-20,2019-05-20,2019-05-11,performing
+first-central,2024-11-16,mycredit investments limited,567753,45000,54900,2019-08-31,2019-09-30,2021-09-23,lost
+crc,2020-12-31,mycredit investments limited,275215,5000,6500,2019-06-08,2019-07-08,2019-07-08,performing
+crc,2020-12-31,mycredit investments limited,365619,30000,13990,2019-07-09,2019-10-07,2019-08-27,performing
+crc,2020-12-31,mycredit investments limited,236530,2500,3250,2019-05-21,2019-06-20,2019-05-28,performing
+crc,2020-12-31,mycredit investments limited,175415,5000,6500,2019-04-20,2019-05-20,2019-05-11,performing
+crc,2020-12-31,mycredit investments limited,261440,5000,6500,2019-06-02,2019-07-02,2019-06-02,performing
+crc,2020-12-31,mycredit investments limited,113264,2500,2880,2019-02-22,2019-03-11,2019-03-04,performing
+crc,2020-12-31,mycredit investments limited,106632,1500,1950,2019-02-12,2019-03-14,2019-02-19,performing
+crc,2020-12-31,mycredit investments limited,130599,5000,6500,2019-03-13,2019-04-12,2019-04-20,performing
+first-central,2024-10-15,aella financial solution ltd,18794569-c112-4b7a-b4c4-35f0b6e9ab6d,,,2022-05-03,2022-07-03,2022-05-15,performing
+first-central,2024-10-15,aella financial solution ltd,21336b58-d00e-4bcc-a28c-9532e4a9e582,,,2021-08-26,2021-09-26,2021-09-02,performing
+first-central,2024-08-16,aella financial solution ltd,9a065dd9-47a2-4901-85b3-10c5dd77949f,4000,,2021-09-02,2021-10-02,2021-10-02,performing
+first-central,2024-10-15,aella financial solution ltd,156707,,,2018-11-22,2018-12-22,2018-12-07,performing
+first-central,2024-10-15,aella financial solution ltd,171639,,,2018-12-07,2019-01-07,2018-12-09,performing
+first-central,2024-10-15,aella financial solution ltd,173562,,,2018-12-09,2019-01-09,2018-12-10,performing
+first-central,2024-10-15,aella financial solution ltd,174081,,,2018-12-10,2019-01-10,2019-01-02,performing
+first-central,2024-10-15,aella financial solution ltd,196444,,,2019-01-02,2019-02-02,2019-07-31,performing
+first-central,2024-10-15,aella financial solution ltd,625575,,,2019-12-05,2020-01-05,2019-12-18,performing
+first-central,2024-07-29,aella financial solution ltd,640892,,,2019-12-18,2020-01-18,2020-02-06,performing
+first-central,2024-08-16,aella financial solution ltd,696817,10000,,2020-02-06,2020-03-06,2020-03-06,performing
+first-central,2024-08-16,aella financial solution ltd,733785,20000,,2020-03-06,2020-05-06,2020-03-14,performing
+first-central,2024-10-15,aella financial solution ltd,122663,,,2018-09-29,2018-10-29,2018-10-24,performing
+first-central,2024-10-15,aella financial solution ltd,138794,,,2018-10-29,2018-11-29,2018-11-14,performing
+first-central,2024-10-15,aella financial solution ltd,153448,,,2018-11-17,2018-12-17,2018-11-26,performing
+first-central,2024-10-15,aella financial solution ltd,209122,,,2019-01-15,2019-02-15,2019-02-19,performing
+first-central,2024-10-15,aella financial solution ltd,248428,,,2019-02-23,2019-03-23,2019-03-10,performing
+first-central,2024-10-15,aella financial solution ltd,267243,,,2019-03-12,2019-04-12,2019-04-22,performing
+first-central,2024-10-15,aella financial solution ltd,28598,,,2018-03-29,2018-04-28,2018-08-20,performing
+first-central,2024-08-16,aella financial solution ltd,311255,7500,,2019-04-24,2019-05-24,2019-05-11,performing
+first-central,2024-10-15,aella financial solution ltd,345343,,,2019-05-17,2019-06-17,2019-05-27,performing
+first-central,2024-10-15,aella financial solution ltd,369926,,,2019-06-03,2019-07-03,2019-06-03,performing
+first-central,2024-10-15,aella financial solution ltd,371681,,,2019-06-05,2019-07-05,2019-07-09,performing
+first-central,2024-10-15,aella financial solution ltd,421021,,,2019-07-11,2019-09-11,2019-08-17,performing
+first-central,2024-10-15,aella financial solution ltd,480206,,,2019-08-21,2019-09-21,2019-08-27,performing
+first-central,2024-10-15,aella financial solution ltd,498785,,,2019-08-31,2019-09-30,2019-09-29,performing
+first-central,2024-10-15,aella financial solution ltd,2b8fe2fc-500b-496b-b557-7e174585bfa5,,,2022-09-25,2022-10-25,2023-01-23,performing
+first-central,2024-10-15,aella financial solution ltd,2c3ac884-5917-4363-8055-74e64797f584,,,2022-06-26,2022-07-26,2022-07-25,performing
+first-central,2024-08-16,aella financial solution ltd,34dce316-6fd3-40a9-9ccb-6758c8944cf5,11250,,2024-01-17,2024-02-17,2024-02-16,performing
+first-central,2024-10-15,aella financial solution ltd,4e70d6c5-c07e-4bd2-b85c-03414c5ac099,,,2022-08-25,2022-09-25,2022-09-25,performing
+first-central,2024-10-15,aella financial solution ltd,7a76e1cf-4e71-43a4-a73e-c5a0b27e3c53,,,2022-07-25,2022-08-25,2022-08-25,performing
+crc,2024-09-30,blueridge microfinance bank limited,884753195,12000,0,2020-12-12,2020-12-29,,lost
+crc,2024-10-31,blueridge microfinance bank limited,882355058,8000,0,2020-03-14,2020-03-28,,lost
+crc,2024-08-31,blueridge microfinance bank limited,8826486264,32500,0,2024-03-22,2024-04-20,2024-04-28,performing
+crc,2024-11-30,blueridge microfinance bank limited,8812552276,14000,0,2022-05-23,2022-06-06,,lost
+crc,2024-05-31,blueridge microfinance bank limited,0260892158,6000,0,2023-08-28,2023-09-26,,performing
+crc,2024-09-30,aella financial solution ltd,ln-1652616312143-378c3b-025-0c67b72,35000,0,2022-05-15,2022-08-15,,lost
+crc,2024-10-31,aella financial solution ltd,744059,23000,0,2020-03-14,2020-05-14,,lost
+crc,2024-10-31,aella financial solution ltd,544746,18000,0,2019-09-29,2019-11-29,2022-03-05,lost
+crc,2024-12-31,aella financial solution ltd,ecc167e6-fc22-43af-93e1-969c7db4e526,11250,0,2024-02-16,2024-03-16,,lost
+first-central,2023-06-07,altracred finance investment limited,20230430013337727,6000,,2023-04-29,2023-05-12,2023-05-02,performing
+first-central,2023-06-07,altracred finance investment limited,20230430014938133,5000,,2023-04-29,2023-05-12,2023-05-02,performing
+first-central,2024-06-18,altracred finance investment limited,SD20230502213624844,12000,,2023-05-02,2023-05-15,2023-05-15,performing
+crc,2024-02-04,altracred finance investment limited,sd20230502213624844,12000,0,2023-05-02,2023-05-15,2023-05-15,lost
+first-central,2023-05-22,altracred finance investment limited,20230424093835844,3000,,2023-04-24,2023-05-07,2023-04-29,performing
+first-central,2023-06-07,altracred finance investment limited,20230502164440992,6000,,2023-05-02,2023-05-15,2023-05-03,performing
+first-central,2023-06-07,altracred finance investment limited,20230503151005680,3000,,2023-05-03,2023-05-16,2023-05-15,performing
+first-central,2023-06-07,altracred finance investment limited,20230514020012625,3000,,2023-05-13,2023-05-26,2023-05-18,performing
+first-central,2023-06-07,altracred finance investment limited,20230516141202333,9000,,2023-05-16,2023-05-29,2023-05-29,performing
+first-central,2023-06-07,altracred finance investment limited,20230516163051824,6000,,2023-05-16,2023-05-29,2023-05-29,performing
+first-central,2023-06-07,altracred finance investment limited,20230524124327306,10000,,2023-05-24,2023-06-06,2023-05-30,performing
+first-central,2023-06-07,altracred finance investment limited,20230525061120334,12000,,2023-05-24,2023-06-06,2023-05-30,performing
+first-central,2023-06-07,altracred finance investment limited,20230529205413623,7000,,2023-05-29,2023-06-11,2023-05-30,performing
+first-central,2023-06-07,altracred finance investment limited,20230529210246817,10000,,2023-05-29,2023-06-11,2023-05-30,performing
+first-central,2023-07-07,altracred finance investment limited,20230530235352530,34000,,2023-05-30,2023-06-12,,performing
+first-central,2023-06-07,altracred finance investment limited,20230531000900029,29000,,2023-05-30,2023-06-12,,performing
+first-central,2023-07-07,altracred finance investment limited,20230531033036862,7000,,2023-05-30,2023-06-12,,performing
+first-central,2023-07-07,altracred finance investment limited,20230601053818041,3000,,2023-05-31,2023-06-13,,performing
+first-central,2024-06-18,altracred finance investment limited,SD20230531000900029,29000,,2023-05-30,2023-06-12,2023-06-17,performing
+first-central,2024-06-18,altracred finance investment limited,SD20230606155009924,7000,,2023-06-06,2023-06-19,2023-06-22,performing
+crc,2024-02-04,altracred finance investment limited,sd20230531000900029,29000,0,2023-05-30,2023-06-12,2023-06-17,lost
+crc,2024-02-04,altracred finance investment limited,sd20230606155009924,7000,0,2023-06-06,2023-06-19,2023-06-22,lost
+crc,2023-05-31,altracred finance investment limited,sd20230601053818041,3000,0,2023-05-31,2023-06-13,,performing
+crc,2023-05-31,altracred finance investment limited,sd20230530235352530,34000,0,2023-05-30,2023-06-12,,performing
+first-central,2024-07-24,access bank plc lagos,099NYSC2418007RP,15000,,2024-06-28,2024-07-28,,performing
+first-central,2021-07-28,access bank plc lagos,099ILAT210220086,95000,31666,2021-01-22,2021-04-22,2021-02-22,performing
+first-central,2021-06-03,access bank plc lagos,099ILAT21029051H,64000,16000,2021-01-29,2021-04-29,2021-03-01,performing
+first-central,2021-07-28,access bank plc lagos,099ILAT2104006QI,96000,32000,2021-02-09,2021-05-10,2021-03-09,performing
+first-central,2021-10-27,access bank plc lagos,099ILAT211440GCC,92000,,2021-05-24,2021-08-22,,performing
+first-central,2025-01-17,access bank plc lagos,099RLAT2413803Z8,96000,,2024-05-17,2024-08-15,,performing
+first-central,2024-09-18,access bank plc lagos,099NYSC24212000U,9000,,2024-07-30,2024-08-29,,performing
+first-central,2022-05-27,renmoney mfb nigeria limited lagos,16734762,92900,0,2021-05-14,2021-08-06,2021-07-27,performing
+first-central,2022-05-27,renmoney mfb nigeria limited lagos,ZD16734762,92900,0,2021-05-14,2021-08-06,2021-12-21,performing
+first-central,2024-12-22,renmoney mfb nigeria limited lagos,31846214,13700,19180,2024-11-24,2024-12-24,,performing
+first-central,2024-11-11,renmoney mfb nigeria limited lagos,31811234,5000,7000,2024-10-11,,2024-10-29,performing
+first-central,2024-12-22,renmoney mfb nigeria limited lagos,31826366,7400,10360,2024-10-29,,2024-11-05,performing
+first-central,2025-01-08,renmoney mfb nigeria limited lagos,31832638,7400,10360,2024-11-06,2024-12-06,,performing
+first-central,2023-09-20,fairmoney microfinance bank limited,10374516,5000,6000,2023-05-24,2023-06-08,2023-05-24,performing
+first-central,2024-08-27,cashxpress nigeria limited,2429,3000,,2024-04-08,2024-04-23,,performing
+first-central,2024-08-27,cashxpress nigeria limited,2997,3000,,2024-04-12,2024-04-27,,performing
+first-central,2024-08-27,cashxpress nigeria limited,4510,3000,,2024-04-21,2024-04-28,,performing
+first-central,2024-08-27,cashxpress nigeria limited,5743,5000,,2024-04-26,2024-05-06,,performing
+first-central,2024-08-27,cashxpress nigeria limited,7327,11000,,2024-05-06,2024-05-16,,performing
+first-central,2024-10-10,cashxpress nigeria limited,7778,18000,,2024-05-08,2024-05-23,,lost
