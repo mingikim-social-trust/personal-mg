@@ -1,1 +1,57 @@
- 
+import webbrowser
+
+# 인스타그램 유저 리스트
+users = [
+    "tirtir_official",
+    "heeddo.fit",
+    "i.m.suhyun",
+    "tirlife.official",
+    "seonho__kim",
+    "the__naeun___",
+    "zog.um",
+    "siyumme",
+    "ryusdb",
+    "banilafruits",
+    "wi__wi__wi",
+    "gaonhe_jeje",
+    "blacklady_2",
+    "chohyetraveler_",
+    "mangnut2",
+    "yuziman__",
+    "lego_asap",
+    "1min.diet",
+    "bop.pt",
+    "miachoo17",
+    "jiyoungkim6364",
+    "bobpro__",
+    "hafeteria",
+    "__ss.gyu",
+    "nannika_.s2",
+    "h.uilil",
+    "unninail",
+    "thebiggestbaby_",
+    "h___jin02",
+    "yoon___ni",
+    "yj._.ily",
+    "bypinetree",
+    "gnuoys",
+    "papergir",
+    "carollllmoon",
+    "___eunji12",
+    "yejin_sim_",
+    "health_move",
+    "nana6a6y",
+    "hyunk_cha",
+    "_u.__.n_",
+    "belle_jinn",
+    "__kunii",
+    "koo.hjj",
+    "pypy12_11",
+    "arang2o_o",
+    "ara_o222",
+]
+
+# 각 유저의 인스타그램 프로필 링크 열기
+for user in users:
+    instagram_url = f"https://www.instagram.com/{user}"
+    webbrowser.open(instagram_url) 
